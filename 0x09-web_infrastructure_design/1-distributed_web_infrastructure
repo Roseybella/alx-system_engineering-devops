@@ -1,0 +1,3 @@
+Distributed web infrastucture
+https://imgur.com/a/YzVlvYS  
+This is a distributed infrastructure that atttempts to reduce the traffic to the primary server by distributing some of the load to a replica server with the aid of a server responsible for balancing the load.

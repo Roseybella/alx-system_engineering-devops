@@ -1,0 +1,7 @@
+https://imgur.com/a/7I7wYi7
+This is a 3-server web infrastructure that is secured, monitored, and serves encrypted traffic.
+Firewalls:
+the fire walls are included to secure the network by limiting traffic going in and out.
+The SSL Certifficate for HTTPS:
+Is use to secure data trasit and protect user privacy, 
+Terminating SSL at the load balancer level would leave the traffic between the load balancer and the web servers unencrypted.
